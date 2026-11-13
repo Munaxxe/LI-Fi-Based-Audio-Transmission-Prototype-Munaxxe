@@ -1,4 +1,4 @@
-# <p align="center"><span style="color:#89CFF0; font-size:42px;">LI-FI BASED AUDIO TRANSMISSION</span></p>
+# <p align="center"><span style="color:#89CFF0; font-size:42px;">LI-FI BASED AUDIO/TEXT TRANSMISSION</span></p>
 
 <p align="center">
   <strong>A Wireless Audio + Text Communication Prototype Using Light</strong>
