@@ -4,14 +4,7 @@
   <strong>A Wireless Audio + Text Communication Prototype Using Light</strong>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Munaxxe/LI-Fi-Based-Audio-Trasnmission-Prototype---Munaxxe">
-    <img src="https://img.shields.io/badge/PROJECT-89CFF0?style=for-the-badge&labelColor=111827" alt="Project" />
-  </a>
-  <a href="https://github.com/Munaxxe/LI-Fi-Based-Audio-Trasnmission-Prototype---Munaxxe/blob/main/Munaxxe-LiFi-Based-Audio-Transmission.mp4">
-    <img src="https://img.shields.io/badge/DEMONSTRATION-89CFF0?style=for-the-badge&labelColor=111827" alt="Demonstration" />
-  </a>
-</p>
+
 
 ---
 
