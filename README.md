@@ -4,8 +4,6 @@
   <strong>A Wireless Audio + Text Communication Prototype Using Light</strong>
 </p>
 
-
-
 ---
 
 ## ABOUT THE PROJECT
@@ -24,12 +22,20 @@ The system operates through two main stages:
 <tr>
 <td width="50%" valign="top">
 
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/medium-connection.png" width="55" alt="Transmitter"/>
+</p>
+
 ### 01 / TRANSMITTER
 
 The audio and text signal is used to modulate a light source, allowing information to be transmitted through variations in light intensity.
 
 </td>
 <td width="50%" valign="top">
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/sensor.png" width="55" alt="Receiver"/>
+</p>
 
 ### 02 / RECEIVER
 
@@ -100,5 +106,4 @@ Watch the prototype demonstration:
   <br/>
   <sub>© 2026 MUNAXXE · ALL RIGHTS RESERVED</sub>
   <br/><br/>
-  
 </p>
